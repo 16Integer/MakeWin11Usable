@@ -1,1 +1,0 @@
-Please create a restore point before running any of these modifications to your system, as you may be unhappy with changes made to your system and/or damage your system. Do this by searching for "Create a restore point" in the search box. To access this restore point, just search it up when needed.
