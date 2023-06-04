@@ -1,5 +1,6 @@
 # MakeWin11Usable
 A collection of batch files, powershell scripts, registry modifications and programs to make Windows 11 actually usable.
+To download, simply click Code, and select Download ZIP. Then, extract the ZIP folder and you're good to go!
 
 
 
