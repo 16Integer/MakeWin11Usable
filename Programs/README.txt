@@ -1,0 +1,1 @@
+I am not responsible for any damages caused by these programs. I do not own these programs. As I mentioned earlier in other READMe's, I highly reccommend creating a restore point before using my registry modifications, batch files, powershell scripts and these programs. I also tested ExplorerPatcher (ep_setup.exe) on a VM and it was extremely broken, so I'm just letting you know.

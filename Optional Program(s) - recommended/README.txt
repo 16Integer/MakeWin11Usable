@@ -1,0 +1,1 @@
+There are batch files here instead of the programs themselves as they are optional programs. To run them, simply double click. Once downloaded, the optional program or installer you installed will be in the same Programs directory as the preinstalled programs with this project. You don't have to install these programs, but I'm pretty sure they should make your life better.
